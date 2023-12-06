@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdalrahmenyousifMohamed
 - 👀 I’m interested in DL and ML
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m  Software Engineer
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me https://twitter.com/Pepo24754482
 
